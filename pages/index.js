@@ -25,7 +25,7 @@ export default function Home() {
         </p>
         <h3 className='py-4'>Juara umum Kompetisi Mobil Listrik Indonesia</h3>
         <div className='grid grid-cols-1'>
-          <div className='rounded-xl mx-auto w-[400px]'>
+          <div className='rounded-xl mx-auto w- full md:w-[400px]'>
           <Image src={Prestasi} />
           </div>
         </div>        
