@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
 import travelImg from '../public/assets/projects/travel.jpeg';
-import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
 const travel = () => {

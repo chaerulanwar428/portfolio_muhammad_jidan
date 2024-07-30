@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
 import consultantImg from '../public/assets/projects/consultant.jpeg';
-import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
 const consultant = () => {

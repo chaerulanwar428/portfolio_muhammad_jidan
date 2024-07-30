@@ -49,14 +49,10 @@ const Navbar = () => {
             <li className="ml-10 text-sm uppercase border-black hover:border-b">
               <Link href="/#projects">Project</Link>
             </li>
-            {/* <li className="ml-10 text-sm uppercase border-black hover:border-b">
-              <Link href="/resume">Daftar Riwayat Hidup</Link>
-            </li> */}
             <li className="ml-10 text-sm uppercase border-black hover:border-b">
               <Link href="/#contact">contact</Link>
             </li>
           </ul>
-          {/* Hamburger Icon */}
           <div style={{ color: `${linkColor}` }} onClick={handleNav} className="md:hidden">
             <AiOutlineMenu size={25} />
           </div>

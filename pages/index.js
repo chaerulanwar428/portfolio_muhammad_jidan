@@ -24,7 +24,6 @@ export default function Home() {
         <h3 className='py-4'>Juara umum Kompetisi Mobil Listrik Indonesia</h3>
         <div className='grid grid-cols-1'>
           <img className="rounded-xl w-[400px] mx-auto" src='/assets/prestasi.jpeg'/>
-
         </div>        
     </div>
     <Contact />

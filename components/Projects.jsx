@@ -2,7 +2,6 @@ import React from 'react';
 import consultantImg from '../public/assets/projects/consultant.jpeg';
 import travelImg from '../public/assets/projects/travel.jpeg';
 import bioskopImg from '../public/assets/projects/bioskop.jpeg';
-import movieImg from '../public/assets/projects/movie.png';
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -21,12 +20,6 @@ const Projects = () => {
             tech=''
 
           />
-          {/* <ProjectItem
-            title='Movie'
-            backgroundImg={movieImg}
-            projectUrl='/movie'
-            tech='React JS'
-          /> */}
         </div>
       </div>
     </div>
