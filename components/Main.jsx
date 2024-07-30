@@ -13,7 +13,7 @@ const Main = () => {
           </h2>
           <h1 className='py-2 text-gray-700'>I am a mechanical engineer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-          I'm a mechanical technician is responsible for maintaining, repairing, and operating equipment and machinery.
+          I am a mechanical technician is responsible for maintaining, repairing, and operating equipment and machinery.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a

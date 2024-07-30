@@ -25,7 +25,7 @@ const travel = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-          Reconditioning a machine is an important process aimed at extending the machine's lifespan, improving fuel efficiency, 
+          Reconditioning a machine is an important process aimed at extending the machines lifespan, improving fuel efficiency, 
           and reducing emissions. This process includes disassembly, inspection, repair, and replacement of worn or damaged 
           components.
           </p>
