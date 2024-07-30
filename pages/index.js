@@ -4,6 +4,8 @@ import Contact from '../components/Contact'
 import Main from '../components/Main'
 import Projects from '../components/Projects'
 import Skills from '../components/Skills'
+import Image from 'next/image';
+import Prestasi from '../public/assets/prestasi.jpeg';
 
 
 export default function Home() {
@@ -23,7 +25,9 @@ export default function Home() {
         </p>
         <h3 className='py-4'>Juara umum Kompetisi Mobil Listrik Indonesia</h3>
         <div className='grid grid-cols-1'>
-          <img className="rounded-xl w-[400px] mx-auto" src='/assets/prestasi.jpeg'/>
+          <div className='rounded-xl mx-auto w-[400px]'>
+          <Image src={Prestasi} />
+          </div>
         </div>        
     </div>
     <Contact />
